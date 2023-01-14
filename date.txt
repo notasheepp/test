@@ -1,1 +1,4 @@
-class Date
+class Date{
+public:
+	Date();
+};
